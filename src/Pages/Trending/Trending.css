@@ -1,0 +1,15 @@
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.pageTitle{
+
+  color: rgb(255, 255, 255);
+  margin: 0px;
+  margin-top: 0%;
+ font-family: 'Itim', cursive;
+ font-weight: bold;
+ font-size: 30px;
+}
